@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "798981854580",
+    "firebase_url": "https://webviewilmugratisan.firebaseio.com",
+    "project_id": "webviewilmugratisan",
+    "storage_bucket": "webviewilmugratisan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798981854580:android:39db0de3d389e712",
+        "android_client_info": {
+          "package_name": "com.wayan.com.ilmugratis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798981854580-88give15ihgs4lenc8ci9dpu826simr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA72qNBQ41Klb9bZflU2pdA80ym10ufs6o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/layout1"
+        android:background="#DC143C"
+        >
+        <ImageView
+            android:paddingTop="20dp"
+            android:src="@drawable/gabriel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:scaleType="fitXY"
+            android:id="@+id/image1"/>
+
+
+
+    <ProgressBar
+        android:layout_below="@+id/image1"
+        android:id="@+id/progressBar2"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="5dp"
+        android:paddingTop="5dp"
+        android:backgroundTint="#FFD700"
+        android:layout_gravity="center_horizontal"
+        />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="SELAMAT DATANG DI APLIKASI KAMI"
+            android:textStyle="bold"
+            android:textSize="15pt"
+            android:layout_above="@+id/progressBar2"
+            android:textColor="#FFFAF0"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:text="gokitabelajar.blogspot.com"
+            android:textStyle="normal"
+            android:textSize="10pt"
+
+            android:layout_above="@+id/progressBar2"
+            android:textColor="#FFFAF0"
+            />
+    </LinearLayout>
+
+
+
+</RelativeLayout>

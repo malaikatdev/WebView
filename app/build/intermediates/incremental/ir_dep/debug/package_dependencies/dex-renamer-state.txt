@@ -1,0 +1,4 @@
+#Sat Jul 14 19:32:19 ICT 2018
+base.0=E\:\\WAYAN FILES\\Android\\Project\\IlmuGratiss\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+path.0=classes.dex
+renamed.0=classes.dex

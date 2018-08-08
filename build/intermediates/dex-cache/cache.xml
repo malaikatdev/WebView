@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\WAYAN\.android\build-cache\2eb79be6e998d656b329fa7cfc76399bd70fd94f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\WAYAN FILES\Android\Project\IlmuGratiss\app\build\intermediates\pre-dexed\release\classes_87c87c970be1cf6860e350dfb8fff0725a16a6a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WAYAN\.android\build-cache\af836b24110848066feee776b03c6e498718152d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\WAYAN FILES\Android\Project\IlmuGratiss\app\build\intermediates\pre-dexed\release\classes_5e6c386918338403fb09b834f6bf3e0c8d45b063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WAYAN\.android\build-cache\af836b24110848066feee776b03c6e498718152d\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\WAYAN FILES\Android\Project\IlmuGratiss\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_9a2c9035f46b60de80abe4d0154f4b9d7bdb1c85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WAYAN\.android\build-cache\d0bdae66a028fb99493be20ba69fda054eac43c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="E:\WAYAN FILES\Android\Project\IlmuGratiss\app\build\intermediates\pre-dexed\release\classes_733bd93043e1851bf705f8b5ab7ec1c84982705d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WAYAN\.android\build-cache\89a2667e4dc6f1d03b15d1348aca59c9cdd4b8ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\WAYAN FILES\Android\Project\IlmuGratiss\app\build\intermediates\pre-dexed\release\classes_076ee0d164aae2f05a588997682a4a9760f1113f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WAYAN FILES\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\WAYAN FILES\Android\Project\IlmuGratiss\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_7bd235092a0f9e871f8e3903350c02867f2bd92e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WAYAN\.android\build-cache\115f225f50ab4892fe8f19e6acd033cb1008094a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\WAYAN FILES\Android\Project\IlmuGratiss\app\build\intermediates\pre-dexed\release\classes_918c315e8b11adb9d28e76a47b7fd93ac4f7da84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WAYAN\.android\build-cache\4e19fcf871509a81955a3564e30150fb14da31ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="E:\WAYAN FILES\Android\Project\IlmuGratiss\app\build\intermediates\pre-dexed\release\classes_7a25a2e429d938b55089a682dca62987dad5d56c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WAYAN\.android\build-cache\5db79e679f340e016103731ac812cbae79dd06a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\WAYAN FILES\Android\Project\IlmuGratiss\app\build\intermediates\pre-dexed\release\classes_0351a3c704c7ff045f957227b6ba9622f7d49561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WAYAN\.android\build-cache\bc823cf0e4a7192539e0517dfa45e99f59cd40c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="E:\WAYAN FILES\Android\Project\IlmuGratiss\app\build\intermediates\pre-dexed\release\classes_0fafc6f1e87fd1c89ae7c2c020c9353998055906.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\WAYAN FILES\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\WAYAN FILES\Android\Project\IlmuGratiss\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_bfea242ec449f8cc12c602f5cf759b9099cfb98f.jar" />
+    </item>
+
+</items>
